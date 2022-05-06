@@ -1,2 +1,2 @@
 # Calculator
-Html , Css, JS,
+Html , Css, JS
