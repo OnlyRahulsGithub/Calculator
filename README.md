@@ -1,2 +1,2 @@
 # Calculator
-Html , Css, JS, Bootstrap, Fonts-awesome
+Html , Css, JS,
